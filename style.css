@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+}
+ header{
+background-color: yellow;
+margin: 0px;
+
+
+
+ }
+nav{
+
+}
+
+nav ul{
+list-style-type: none;
+display: grid;
+grid-template-columns: auto auto auto;
+}
